@@ -1,0 +1,3 @@
+S = rand(10);
+pause (50);
+save S;

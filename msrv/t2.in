@@ -1,0 +1,3 @@
+N = rand(10);
+pause (5);
+save N;
